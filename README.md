@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-Hi, I'm Garrett 👋
+## Hi, I'm Garrett 👋
 
 I'm a Computer Engineering Technology graduate with a passion for building software that solves real problems. 
 I enjoy working across software development, game development, and embedded systems while constantly challenging 
