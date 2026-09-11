@@ -1,7 +1,7 @@
 💾 Unity Save & Load System
 A modular C# save/load system for Unity built to persist complex gameplay data across scenes and multiple save profiles.
 
-![Save Slot UI](Images/File.SS.png?raw=true)
+`![Save Slot UI](Images/File.SS.png?raw=true)
 
 Built for a larger game project, the system handles everything from basic player data to inventory, machines, world state, progression, achievements, and more.
 
