@@ -1,5 +1,7 @@
-Arduino-Based Yahtzee Game System | Embedded C++, Arduino, LCD, Keypad
+## Arduino-Based Yahtzee Game System | Embedded C++, Arduino, LCD, Keypad
+
 [View Project Documentation](https://docs.google.com/document/d/1Qxlvhn-VIuihZKwssFtwqC-rDDw4KS7c1QwSv_uIMF8/edit?usp=sharing)
+
 This project was for a Microprocessor class in College
 
 -Developed an interactive Yahtzee game using embedded C++ on an Arduino microcontroller.
