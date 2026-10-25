@@ -4,9 +4,9 @@
 
 ### This project was for a Microprocessor class in College
 
--Developed an interactive Yahtzee game using embedded C++ on an Arduino microcontroller.
--Integrated a keypad and LCD screen to support player input, game interaction, and score display.
--Implemented game logic and scoring functionality to replicate the core Yahtzee experience.
+- Developed an interactive Yahtzee game using embedded C++ on an Arduino microcontroller.
+- Integrated a keypad and LCD screen to support player input, game interaction, and score display.
+- Implemented game logic and scoring functionality to replicate the core Yahtzee experience.
 
 ## Key Functions
 
